@@ -1,0 +1,113 @@
+{
+    "favorited": false, 
+    "quote_count": 0, 
+    "contributors": null, 
+    "truncated": false, 
+    "text": "Test 7 #savememountainrescue", 
+    "is_quote_status": false, 
+    "in_reply_to_status_id": null, 
+    "reply_count": 0, 
+    "user": {
+        "follow_request_sent": null, 
+        "profile_use_background_image": true, 
+        "default_profile_image": false, 
+        "id": 912340095189045248, 
+        "default_profile": true, 
+        "verified": false, 
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+        "profile_sidebar_fill_color": "DDEEF6", 
+        "profile_text_color": "333333", 
+        "followers_count": 0, 
+        "profile_sidebar_border_color": "C0DEED", 
+        "id_str": "912340095189045248", 
+        "profile_background_color": "F5F8FA", 
+        "listed_count": 0, 
+        "profile_background_image_url_https": "", 
+        "utc_offset": null, 
+        "statuses_count": 7, 
+        "description": null, 
+        "friends_count": 0, 
+        "location": "United Kingdom", 
+        "profile_link_color": "1DA1F2", 
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+        "following": null, 
+        "geo_enabled": true, 
+        "profile_background_image_url": "", 
+        "name": "testbot", 
+        "lang": "en-gb", 
+        "profile_background_tile": false, 
+        "favourites_count": 0, 
+        "screen_name": "testbot_feed", 
+        "notifications": null, 
+        "url": null, 
+        "created_at": "Mon Sep 25 15:36:43 +0000 2017", 
+        "contributors_enabled": false, 
+        "time_zone": null, 
+        "protected": false, 
+        "translator_type": "none", 
+        "is_translator": false
+    }, 
+    "filter_level": "low", 
+    "geo": null, 
+    "id": 949315036824170496, 
+    "favorite_count": 0, 
+    "lang": "en", 
+    "entities": {
+        "user_mentions": [], 
+        "symbols": [], 
+        "hashtags": [
+            {
+                "indices": [
+                    7, 
+                    28
+                ], 
+                "text": "savememountainrescue"
+            }
+        ], 
+        "urls": []
+    }, 
+    "in_reply_to_user_id_str": null, 
+    "retweeted": false, 
+    "coordinates": null, 
+    "timestamp_ms": "1515169316856", 
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+    "in_reply_to_status_id_str": null, 
+    "in_reply_to_screen_name": null, 
+    "id_str": "949315036824170496", 
+    "place": {
+        "country_code": "GB", 
+        "url": "https://api.twitter.com/1.1/geo/id/0c4f58af36a910a6.json", 
+        "country": "United Kingdom", 
+        "place_type": "city", 
+        "bounding_box": {
+            "type": "Polygon", 
+            "coordinates": [
+                [
+                    [
+                        -1.147268, 
+                        53.928002
+                    ], 
+                    [
+                        -1.147268, 
+                        54.004411
+                    ], 
+                    [
+                        -1.023381, 
+                        54.004411
+                    ], 
+                    [
+                        -1.023381, 
+                        53.928002
+                    ]
+                ]
+            ]
+        }, 
+        "full_name": "York, England", 
+        "attributes": {}, 
+        "id": "0c4f58af36a910a6", 
+        "name": "York"
+    }, 
+    "retweet_count": 0, 
+    "created_at": "Fri Jan 05 16:21:56 +0000 2018", 
+    "in_reply_to_user_id": null
+}
